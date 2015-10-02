@@ -1,4 +1,4 @@
 BreakoutTut
 ===========
 
-This is a test repo.
+This is a test project for learning purposes.
